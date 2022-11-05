@@ -1,0 +1,3 @@
+/work/hwy/boerecsdk/RecSDK/build/CMakeFiles/RecInfer.dir
+/work/hwy/boerecsdk/RecSDK/build/CMakeFiles/edit_cache.dir
+/work/hwy/boerecsdk/RecSDK/build/CMakeFiles/rebuild_cache.dir
